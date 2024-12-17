@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Bird @MITechMerc
 - 👀 I’m interested in programming, computers, and AI.
-- 🌱 I’m currently learning Python, algoithms, and data-structures.
+- 🌱 I’m currently learning Python, algorithms, and data-structures.
 - 💞️ I’m looking to collaborate on projects to grow my experience.
 - 📫 How to reach me @MITechMerc on most social platforms. MITechMerc@gmail.com
 - 😄 Pronouns: He/Him
